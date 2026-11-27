@@ -1,0 +1,7 @@
+*.exe
+*.dll
+*.i64
+*.idb
+*.log
+.venv/
+__pycache__/
